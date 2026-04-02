@@ -1,11 +1,12 @@
 {
   "latestVersion": "1.7.1.0",
   "appName":"StarStack",
-  "downloadPhpUrl":"https://starstack.starseis.com/AppStuff/DownloadUpdate.php",
-  "installerDownloadUrl": "https://starstack.starseis.com/AppStuff/1.7.1.0/",
+
   "installerFileName":"StarStackInstaller.exe",
+  
   "githubUrl": "https://github.com/msanders59/StarStack/releases/download/v1.7.1/StarStackInstaller.exe",
   "itchUrl": "https://your-itch-download-url",
   "joomlaUrl": "https://starstack.starseis.com/index.php/update-app",
+  
   "logUrl": "https://starstack.starseis.com/AppStuff/DownloadUpdate.php"
 }
